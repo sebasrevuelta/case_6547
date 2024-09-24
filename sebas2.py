@@ -1,1 +1,2 @@
-print("Sebas2")
+import logging
+logging.info("Sebas2")
