@@ -1,1 +1,1 @@
-print("Sebas")
+logging.info("Sebas")
